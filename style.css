@@ -9,6 +9,10 @@ body {
   padding-left: 10px;
   padding-top: 10px;
 }
+.container {
+  background-image: url('images/header-shapes\ mobile.png');
+ 
+}
 #logo {
   color: #6070FF;
   width: 76px;
@@ -33,6 +37,7 @@ body {
   font-weight: 700;
   font-size: 35px;
   line-height: 52px;
+  padding-top: 4%;
 }
 .second-section {
   padding-left: 10px;
