@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #FFFFFF;
+}
+.header {
+  display: flex;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+#logo {
+  color: #6070FF;
+  width: 76px;
+  height: 20px;
+  font-size: 18px;
+  font-family: 'Poppins';  
+  font-style: normal;
+  font-weight: 700;
+}
+#humburger-btn {
+  width: 25px;
+  height: 25px;
+  margin-left: 60%;
+  margin-top: 3%;
+}
+.first-section {
+  align-items: center;
+  padding-left: 10px;
+  color: #172B4D;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 52px;
+}
+.second-section {
+  padding-left: 10px;
+  color: #344563;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+}
+#link {
+  text-decoration: none;
+} 
+.third-section {
+  padding-left: 10px;
+  color: #7F8CFF;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+#svg-1 {
+  margin-left: 10px;
+}
