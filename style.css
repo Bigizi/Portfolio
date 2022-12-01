@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
-
 * {
   box-sizing: border-box;
 }
@@ -25,7 +24,7 @@ body {
   width: 76px;
   height: 20px;
   font-size: 18px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
 }
@@ -41,7 +40,7 @@ body {
   align-items: center;
   padding-left: 10px;
   color: #172b4d;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 35px;
@@ -52,7 +51,7 @@ body {
 .second-section {
   padding-left: 10px;
   color: #344563;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -66,7 +65,7 @@ body {
 .third-section {
   padding-left: 10px;
   color: #7f8cff;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
