@@ -7,6 +7,8 @@ It has the followinf files: a README file, html, css, gitignore, linters
 **Tech stack**
 **client:**
   HTML and CSS
+# Key Features
+  This feature will be updated the more I update this portfolio
 # Prerequisities:
 **Setup**
 Clone this repository to your desired folder and run it using a browser.
