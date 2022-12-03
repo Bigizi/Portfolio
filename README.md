@@ -24,7 +24,7 @@
 
 # 📖 [Crispin_Portfolio] <a name="about-project"></a>
 
-**[Crispin_Portfolio]** is a project requested to every student at Microverse for the purpose of building knowledge capacity and for the job searching or job market
+**[Crispin_Portfolio]** is a project developed using HTML and CSS, It has all the details about my experoience, the projects I developed, Skills, programming languages that i know, the frameworks, and the contact form to get in touch with me.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,13 +73,13 @@ Install this project with:
 
 clone the repo using this command:
 
-git clone
+git clone [https://github.com/Bigizi/Portfolio]
 
 ### Usage
 
 To run the project, execute the following command:
 
-cd to your repo
+Navigating to your repo use this command: cd [directory-name]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -90,7 +90,7 @@ cd to your repo
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Bigizi/Portfolio)
+- GitHub: [@githubhandle](https://github.com/Bigizi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/bigizi-nduwayo-crispin-74b534227/)
 
 
