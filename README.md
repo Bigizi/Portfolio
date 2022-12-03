@@ -1,66 +1,129 @@
-# Portfolio:
-Portfolio Project is mandatory to every student at Microverse, and it is one of the product that helps a student to job market.
-It has the followinf files: a README file, html, css, gitignore, linters
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
 
-# Built With
-**Tech stack**
-**client:**
-  HTML
-  CSS
-# Key Features
-  This feature will be updated the more I update this portfolio
-# Prerequisities:
-**Setup**
-Clone this repository to your desired folder and run it using a browser.
-**Usage**
-To run this project you need a code editor and browser
+# 📖 [Crispin_Portfolio] <a name="about-project"></a>
 
-**Author:**
-  Crispin:
-     github: https://github.com/Bigizi
-     LinkedIn: https://www.linkedin.com/in/bigizi-nduwayo-crispin-74b534227/
+**[Crispin_Portfolio]** is a project requested to every student at Microverse for the purpose of building knowledge capacity and for the job searching or job market
 
-**Contributing:**
-Contributions, issues, and feature requests are welcome! Built With
-Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> This project is built in HTML and CSS
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+  </ul>
+</details>
+<details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> This project has the following feature.
+
+- **[About_me_feature]**
 
 
 
-Prerequisites
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
 In order to run this project you need:
 
-Setup
+### Setup
+
 Clone this repository to your desired folder:
 
-Install
+### Install
+
 Install this project with:
 
-Usage
-To run the project you need
-. Have a browser
-. Editor
+clone the repo using this command:
+
+git clone
+
+### Usage
+
+To run the project, execute the following command:
+
+cd to your repo
 
 
-Deployment
-You can deploy this project using:
-Any host of your choice example:
-Heroku, Netlify, Firebase ect....
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/Bigizi/Portfolio)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bigizi-nduwayo-crispin-74b534227/)
 
 
-🔭 Future Features
-I will be adding in the future the following feature:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
- [Contact me form]
+<!-- FUTURE FEATURES -->
 
-🤝 Contributing
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Contact_me_feature]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-⭐️ Show your support
-Dear developers this project is developed in a professional way
-If you have any suggestion you are welcome
+<!-- SUPPORT -->
 
+## ⭐️ Show your support <a name="support"></a>
 
-🙏 Acknowledgments
-I would like to thank my code partners for being there for any support and encouregement
+>This project will help you to know step by step to build a portfolio using HTML and CSS
+
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank all my code partners, morning session team and stand up call team
