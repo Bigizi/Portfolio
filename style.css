@@ -15,6 +15,16 @@ body {
   width: 327px;
 }
 
+#my-btn:hover {
+  background: #6070FF;
+  color: #FFFFFF;
+}
+
+#my-btn:active {
+  background: #2230D2;
+  color: #FFFFFF;
+}
+
 .my-logo {
   display: flex;
   justify-content: center;
