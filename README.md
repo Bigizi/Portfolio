@@ -50,6 +50,7 @@
 > This project has the following feature.
 
 - **[About_me_feature]**
+- **[Contact_me_form_feature]**
 
 
 
