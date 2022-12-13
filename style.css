@@ -360,3 +360,18 @@ a {
   text-align: center;
   color: #fff;
 }
+
+.last-section-header {
+  padding-top: 120px;
+}
+
+.input {
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  width: 327px;
+  height: 48px;
+  margin-left: 20px;
+}
