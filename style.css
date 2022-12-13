@@ -306,8 +306,10 @@ a {
 }
 
 .last-section {
-  width: 420px;
-  height: 820px;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
   background: #6070ff;
   border-top-left-radius: 80px;
   background-image: url('images/contact\ form\ shape.png');
@@ -326,9 +328,9 @@ a {
   background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
-  width: 327px;
+  width: 355px;
   height: 170px;
-  margin-left: 20px;
+  margin-left: 15px;
 }
 
 #last-btn {
@@ -348,6 +350,7 @@ a {
   background: #fff;
   border-radius: 8px;
   border: none;
+  justify-content: center;
 }
 
 #last-section-h2 {
@@ -359,6 +362,7 @@ a {
   align-items: center;
   text-align: center;
   color: #fff;
+  margin-right: 120px;
 }
 
 .last-section-header {
@@ -371,7 +375,7 @@ a {
   background: #fff;
   border: 1px solid #cfd8dc;
   border-radius: 8px;
-  width: 327px;
+  width: 355px;
   height: 48px;
-  margin-left: 20px;
+  margin-left: 15px;
 }
