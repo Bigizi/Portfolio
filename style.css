@@ -168,7 +168,8 @@ body {
   padding: 4px 12px;
   background: #ebebff;
   border-radius: 8px;
-  display: inline;
+  float: left;
+  margin-right: 15px;
 }
 
 #li-1 {
@@ -292,4 +293,142 @@ ul {
 
 a {
   text-decoration: none;
+}
+
+#last-section-p {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #ebebff;
+}
+
+.last-section {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 100px;
+  justify-content: center;
+  background-image: url('images/contact-img.png');
+  height: 100vh;
+}
+
+.last-section h1 {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  text-align: center;
+  color: #fff;
+}
+
+.last-section p {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #ebebff;
+  margin: 15px;
+  padding: 10px;
+}
+
+.last-section form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.input {
+  width: 100%;
+  height: 50px;
+  background: #fff;
+  border: 1px solid #cfd8dc;
+  border-radius: 8px;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #172b4d;
+}
+
+.text-area {
+  width: 100%;
+  height: 170px;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #cfd8dc;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  padding: 20px;
+  color: #172b4d;
+}
+
+::placeholder {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+}
+
+.text-area::placeholder {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #b3bac5;
+  margin-left: 20px;
+}
+
+.get-in-touch {
+  width: 140px;
+  height: 48px;
+  justify-content: flex-start;
+  color: #6070ff;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  background: #fff;
+  border-radius: 8px;
+  border: none;
+}
+
+.shape-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.see-project-btn:hover {
+  background: #6070ff;
+  box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
+  border-radius: 8px;
+  color: #fff;
+  letter-spacing: 0.03em;
+}
+
+.see-project-btn:active {
+  background: #2230d2;
+  border-radius: 8px;
+  color: #fff;
 }
