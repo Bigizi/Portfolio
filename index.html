@@ -18,17 +18,19 @@
         <nav class="nav-bar">
             <ul class="nav-list">
                 <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#about-myself">About</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#contact">contact</a></li>
             </ul>
             <img id="humburger-btn" src="images/icons8-hamburger-menu-64.png" alt="hamburger btn"/>
         </nav>
     </header>
     <main class="container">
-        <section class="first-section">
-            <h1 id="my-h1">I’m Crispin<br/> Glad to see you!</h1>
-            <p id="my-p1">I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
-            <p class="my-p2">LET’S CONNECT</p>
+        <section class="first-section" id="portfolio">
+            <div>
+                <h1 id="my-h1">I’m Crispin<br/> Glad to see you!</h1>
+                <p id="my-p1">I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
+                <p class="my-p2">LET’S CONNECT</p>
+            </div>
             <ul class="my-list">
                 <li class="sub-list">
                     <a href="">
@@ -108,7 +110,7 @@
             <div>
                 <img src="images/Snapshoot Portfolio2.png" class="section-img"/>
             </div>
-            <div>
+            <div class="sections-lign">
                 <div>
                     <h2 class="my-h2">Mult-Post Stories</h2>
                 </div>
@@ -140,7 +142,7 @@
             <div>
                 <img src="images/Snapshoot Portfolio3.png" class="section-img"/>
             </div>
-            <div>
+            <div class="second-section-div">
                 <div>
                     <h2 class="my-h2">Tonic</h2>
                 </div>
@@ -172,7 +174,7 @@
             <div>
                 <img src="images/Snapshoot Portfolio4.png" class="section-img"/>
             </div>
-            <div>
+            <div class="sections-lign">
                 <div>
                     <h2 class="my-h2">Mult-Post Stories</h2>
                 </div>
@@ -200,9 +202,9 @@
                 </div>
             </div>
         </section>
-        <section class="sixth-section">
+        <section class="sixth-section" id="about">
             <div>
-                <div>
+                <div class="section-about">
                     <h2 class="my-h2">About<br/>Myself</h2><br/><br/>
                     <p class="second-para">Hello I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
                     <p class="my-p2">LET’S CONNECT</p>
@@ -251,31 +253,33 @@
                     </div>
                 </div>
             </div>
-            <div>
+            <div class="bottom-tech">
                 <div>
                     <ul>
                         <li class="about">
                             <p class="paragraph">Languages</p>
                             <img src="images/dropdown.png" alt="dropdown" class="down-btn"/>
                         </li>
-                        <li class="section6-list">
-                            <img src="icons/js icon.png" alt="js-icon"/>
-                            <p id="last-p">Javascript</p>
-                        </li><br/>
-                        <li class="section6-list">
-                            <img src="icons/html icon.png" alt="html-icon"/>
-                            <p id="last-p">HTML</p>
-                        </li><br/>
-                        <li class="section6-list">
-                            <img src="icons/css icon.png" alt="css-icon"/>
-                            <p id="last-p">CSS</p>
-                        </li>
+                        <div class="section-tech-list">
+                            <li class="section6-list">
+                                <img src="icons/js icon.png" alt="js-icon"/>
+                                <p id="last-p">Javascript</p>
+                            </li><br/>
+                            <li class="section6-list">
+                                <img src="icons/html icon.png" alt="html-icon"/>
+                                <p id="last-p">HTML</p>
+                            </li><br/>
+                            <li class="section6-list">
+                                <img src="icons/css icon.png" alt="css-icon"/>
+                                <p id="last-p">CSS</p>
+                            </li>
+                        </div>
                     </ul>
                 </div>
                 <div>
                     <ul>
                         <li class="about">
-                            <p class="paragraph">Frameworks</p>
+                            <p class="paragraph">Frameworks</p>&nbsp;&nbsp;&nbsp;
                             <img src="images/right-button.png" alt="right-btn" class="down-btn"/>
                         </li><hr/>
                         <li class="about">
@@ -286,9 +290,9 @@
                 </div>
             </div>
             </div>
-        </section><br/>
-        <section class="last-section">
-            <div>
+        </section><br/><br/>
+        <section class="last-section" id="contact">
+            <div  class="last-paragraph">
                 <h1>Contact me</h1>
                 <p>If you have an application you are interested in developing, a feature that you need built or a project that needs coding. I’d love to help with it </p>
             </div>
@@ -296,7 +300,7 @@
                 <form action="https://formspree.io/f/mvoyennl"  method="post">
                     <input type="text" name="username" placeholder="Enter your name" class="input" maxlength="30" required><br>
                     <input type="email" name="email" placeholder="Enter email address" class="input" required><br>
-                    <textarea name="message" cols="30" rows="10" placeholder="Write your message here" class="textarea" maxlength="500" required></textarea><br/><br/>
+                    <textarea name="message" cols="30" rows="10" placeholder="Write your message here" class="textarea" maxlength="500" required></textarea><br/>
                     <input type="submit" value="Get In Touch" class="see-project-btn get-in-touch">
                 </form>
             </div><br/>
