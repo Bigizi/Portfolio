@@ -97,6 +97,8 @@ body {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
+  animation-duration: 3s;
+  animation-name: spin;
 }
 
 .my-list {
@@ -669,4 +671,9 @@ a {
   .get-in-touch {
     margin-left: 40%;
   }
+}
+
+@keyframes spin {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
 }
