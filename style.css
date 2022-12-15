@@ -317,6 +317,7 @@ ul {
   font-weight: 700;
   font-size: 35px;
   line-height: 52px;
+  transition: font-size 3s, color 2s;
 }
 
 #my-p1 {
@@ -540,6 +541,11 @@ a {
     line-height: 52px;
   }
 
+  #my-h1:hover {
+    font-size: 60px;
+    color: #2230d2;
+  }
+
   #my-btn1 {
     background: #4053fc;
     color: #fff;
@@ -674,6 +680,6 @@ a {
 }
 
 @keyframes spin {
-  from {transform: rotate(0deg);}
-  to {transform: rotate(360deg);}
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
