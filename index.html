@@ -18,14 +18,14 @@
         <nav class="nav-bar">
             <ul class="nav-list">
                 <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#about-myself">About</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#contact">contact</a></li>
             </ul>
             <img id="humburger-btn" src="images/icons8-hamburger-menu-64.png" alt="hamburger btn"/>
         </nav>
     </header>
     <main class="container">
-        <section class="first-section">
+        <section class="first-section" id="portfolio">
             <h1 id="my-h1">I’m Crispin<br/> Glad to see you!</h1>
             <p id="my-p1">I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
             <p class="my-p2">LET’S CONNECT</p>
@@ -200,7 +200,7 @@
                 </div>
             </div>
         </section>
-        <section class="sixth-section">
+        <section class="sixth-section" id="about">
             <div>
                 <div>
                     <h2 class="my-h2">About<br/>Myself</h2><br/><br/>
@@ -287,8 +287,8 @@
             </div>
             </div>
         </section><br/>
-        <section class="last-section">
-            <div>
+        <section class="last-section" id="contact">
+            <div  class="last-paragraph">
                 <h1>Contact me</h1>
                 <p>If you have an application you are interested in developing, a feature that you need built or a project that needs coding. I’d love to help with it </p>
             </div>
@@ -296,7 +296,7 @@
                 <form action="https://formspree.io/f/mvoyennl"  method="post">
                     <input type="text" name="username" placeholder="Enter your name" class="input" maxlength="30" required><br>
                     <input type="email" name="email" placeholder="Enter email address" class="input" required><br>
-                    <textarea name="message" cols="30" rows="10" placeholder="Write your message here" class="textarea" maxlength="500" required></textarea><br/><br/>
+                    <textarea name="message" cols="30" rows="10" placeholder="Write your message here" class="textarea" maxlength="500" required></textarea><br/>
                     <input type="submit" value="Get In Touch" class="see-project-btn get-in-touch">
                 </form>
             </div><br/>
