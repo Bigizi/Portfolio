@@ -519,6 +519,13 @@ a {
     margin-left: 10%;
     margin-right: 20%;
     margin-top: 10%;
+    transition: margin 1s, box-shadow 1s;
+  }
+
+  .second-section:hover,
+  .second-section:focus {
+    margin: 5px;
+    box-shadow: 7px 7px #7f8cff;
   }
 
   .second-section-div {
@@ -573,6 +580,13 @@ a {
     margin-left: 10%;
     margin-right: 20%;
     margin-top: 10%;
+    transition: margin 1s, box-shadow 1s;
+  }
+
+  .third-section:hover,
+  .third-section:focus {
+    margin: 5px;
+    box-shadow: 7px 7px #7f8cff;
   }
 
   .fourth-section {
