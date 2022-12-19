@@ -52,6 +52,15 @@
 - **[About_me_feature]**
 - **[Contact_me_form_feature]**
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here is the where the project is deployed.
+
+- [Live Demo Link](https://bigizi.github.io/Portfolio/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
