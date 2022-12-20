@@ -359,7 +359,7 @@ a {
   padding-top: 100px;
   justify-content: center;
   background-image: url('images/contact-img.png');
-  height: 100vh;
+  height: 780px;
 }
 
 .last-section h1 {
@@ -405,7 +405,7 @@ a {
   color: #172b4d;
 }
 
-.text-area {
+.textarea {
   width: 350px;
   height: 170px;
   background: #fff;
