@@ -104,6 +104,13 @@ Navigating to your repo use this command: cd [directory-name]
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/bigizi-nduwayo-crispin-74b534227/)
 
 
+👤 **Author2**
+
+- GitHub: [@amazinggacee](https://github.com/Amazinggracee)
+- Twitter: [@amazinggaceu](https://twitter.com/amazinggraceu)
+- LinkedIn: [Amarachi Dimkpa](https://linkedin.com/in/amarachi-dimkpa-070643183)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
