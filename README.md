@@ -51,6 +51,7 @@
 
 - **[About_me_feature]**
 - **[Contact_me_form_feature]**
+- **[Pop_up_window_feature]**
 
 <!-- LIVE DEMO -->
 
@@ -119,7 +120,8 @@ Navigating to your repo use this command: cd [directory-name]
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Contact_me_feature]**
+
+- [ ] **[new_feature_1]** More JavaScript functionalities.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
