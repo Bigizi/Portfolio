@@ -1,60 +1,40 @@
-// First-Card
-const title1 = 'Tonic';
-const subtitles1 = ['Canopy', 'Back End Dev', '2015'];
-const description1 = 'A daily selection of privately personalized reads; no accounts or sign-ups required.';
-const imgUrl1 = './images/Snapshoot Portfolio.png';
-const technologies1 = ['html', 'css', 'javascript'];
+// First-Card object
 const projectData1 = {
-  title: title1,
-  description: description1,
-  image: imgUrl1,
-  technologies: technologies1,
-  subtitles: subtitles1,
+  title: 'Tonic',
+  description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+  image: './images/Snapshoot Portfolio.png',
+  technologies: ['html', 'css', 'javascript'],
+  subtitles: ['Canopy', 'Back End Dev', '2015'],
 };
 
-// Second-Card
-const title2 = 'Multi-Post Stories';
-const subtitles2 = ['Canopy', 'Back End Dev', '2015'];
-const description2 = 'A daily selection of privately personalized reads; no accounts or sign-ups required.';
-const imgUrl2 = './images/Snapshoot Portfolio2.png';
-const technologies2 = ['html', 'css', 'javascript'];
+// Second-Card object
 const projectData2 = {
-  title: title2,
-  description: description2,
-  image: imgUrl2,
-  technologies: technologies2,
-  subtitles: subtitles2,
+  title: 'Multi-Post Stories',
+  description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+  image: './images/Snapshoot Portfolio2.png',
+  technologies: ['html', 'css', 'javascript'],
+  subtitles: ['Canopy', 'Back End Dev', '2015'],
 };
 
-// Third Card
-const title3 = 'Tonic';
-const subtitles3 = ['Canopy', 'Back End Dev', '2015'];
-const description3 = 'A daily selection of privately personalized reads; no accounts or sign-ups required.';
-const imgUrl3 = './images/Snapshoot Portfolio3.png';
-const technologies3 = ['html', 'css', 'javascript'];
+// Third Card object
 const projectData3 = {
-  title: title3,
-  description: description3,
-  image: imgUrl3,
-  technologies: technologies3,
-  subtitles: subtitles3,
+  title: 'Tonic',
+  description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+  image: './images/Snapshoot Portfolio3.png',
+  technologies: ['html', 'css', 'javascript'],
+  subtitles: ['Canopy', 'Back End Dev', '2015'],
 };
 
-// Fourth Card
-const title4 = 'Multi-Post Stories';
-const subtitles4 = ['Canopy', 'Back End Dev', '2015'];
-const description4 = 'A daily selection of privately personalized reads; no accounts or sign-ups required.';
-const imgUrl4 = './images/Snapshoot Portfolio4.png';
-const technologies4 = ['html', 'css', 'javascript'];
+// Fourth Card object
 const projectData4 = {
-  title: title4,
-  description: description4,
-  image: imgUrl4,
-  technologies: technologies4,
-  subtitles: subtitles4,
+  title: 'Multi-Post stories',
+  description: 'A daily selection of privately personalized reads; no accounts or sign-ups required.',
+  image: './images/Snapshoot Portfolio4.png',
+  technologies: ['html', 'css', 'javascript'],
+  subtitles: ['Canopy', 'Back End Dev', '2015'],
 };
 
-// Array that is containing all data
+// Array that is containing data from the four objects
 const ProjectsData = [projectData1, projectData2, projectData3, projectData4];
 
 // Query selectors
