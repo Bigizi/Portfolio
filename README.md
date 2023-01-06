@@ -112,6 +112,12 @@ Navigating to your repo use this command: cd [directory-name]
 - LinkedIn: [Amarachi Dimkpa](https://linkedin.com/in/amarachi-dimkpa-070643183)
 
 
+👤 **Author3**
+
+- GitHub: [@githubhandle](https://github.com/Rudy-Menekam)
+- Twitter: [@twitterhandle](https://twitter.com/MenekamR)
+- LinkedIn: [linkedIn](https://www.linkedin.com/in/menekam-rudy/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
