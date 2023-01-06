@@ -80,7 +80,7 @@ Clone this repository to your desired folder:
 
 ### Install
 
-Install this project with:
+Install any code editor in your computer
 
 clone the repo using this command:
 
@@ -101,8 +101,8 @@ Navigating to your repo use this command: cd [directory-name]
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Bigizi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bigizi-nduwayo-crispin-74b534227/)
+- GitHub: [@Crispin](https://github.com/Bigizi)
+- LinkedIn: [Crispin](https://www.linkedin.com/in/bigizi-nduwayo-crispin-74b534227/)
 
 
 👤 **Author2**
@@ -114,17 +114,15 @@ Navigating to your repo use this command: cd [directory-name]
 
 👤 **Author3**
 
-- GitHub: [@githubhandle](https://github.com/Rudy-Menekam)
-- Twitter: [@twitterhandle](https://twitter.com/MenekamR)
-- LinkedIn: [linkedIn](https://www.linkedin.com/in/menekam-rudy/)
+- GitHub: [@Rudy](https://github.com/Rudy-Menekam)
+- Twitter: [@Rudy](https://twitter.com/MenekamR)
+- LinkedIn: [@Rudy](https://www.linkedin.com/in/menekam-rudy/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 
 - [ ] **[new_feature_1]** More JavaScript functionalities.
