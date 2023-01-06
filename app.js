@@ -37,3 +37,22 @@ function checkInputs(event) {
 }
 
 form.addEventListener('submit', checkInputs);
+
+form.addEventListener('input', () => {
+   // Retrieving data input
+   let data = {
+    name: document.getElementById("username").value,
+    email: document.getElementById("email").value,
+    text: document.getElementById("text").value,
+  }
+
+  // Make all data as string
+  let dataStore = JSON.stringify(data);
+  // Storing data
+  localStorage.setItem('data', dataStore);
+})
+
+const getData = JSON.parse(localStorage.getItem('data'))
+document.getElementById("username").value = getData.name;
+document.getElementById("email").value = getData.email;
+document.getElementById("text").value = getData.text;
