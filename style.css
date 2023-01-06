@@ -390,21 +390,11 @@ a {
   padding: 20px;
 }
 
-small {
-  margin-left: 40%;
-  color: rgb(235, 12, 12);
-  font-size: 14px;
+.small {
+  color: red;
+  margin-left: 33%;
+  font-size: 16px;
   font-family: 'Poppins', sans-serif;
-  /* visibility: hidden; */
-}
-
-.error input {
-  border-color: #e74c3c;
-}
-
-.error small {
-  color: #e74c3c;;
-  /* visibility: visible; */
 }
 
 .input {
