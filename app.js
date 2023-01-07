@@ -38,11 +38,10 @@ function checkInputs(event) {
 
 form.addEventListener('submit', checkInputs);
 
+// Preserve data in a browser
 form.addEventListener('input', () => {
   // Retrieving data input
   const data = {
-    name: document.getElementById('username').value,
-    email: document.getElementById('email').value,
     text: document.getElementById('text').value,
   };
 
